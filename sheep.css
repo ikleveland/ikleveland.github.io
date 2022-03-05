@@ -153,7 +153,9 @@ list .navitems{
 }
 
 .topnav{
-    background-color: aqua;
+    background-color: rgb(17, 158, 158);
+    border-radius: 5px;
+
 }
 
 
