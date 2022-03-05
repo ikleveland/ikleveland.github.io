@@ -31,6 +31,10 @@ h1 {
     font-weight: 400;
     text-align: center;
 }
+p{
+      font: bold;
+      
+  }
 
 .hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://drive.google.com/file/d/1LPW886fjTC6GoTbDJmYjeE7Ay5mrKwo1/view?usp=sharing");
